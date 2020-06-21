@@ -40,8 +40,8 @@ In order to ease the testing of our project, we provide the following links, whi
 
 ## Pretrained models
 We have also upload the two best score models weights.
-Pyramid_Pooling 3 exits:https://drive.google.com/file/d/1zFYL4ncQHmrxTYd0raQYkP6Ao3tqSqo5/view?usp=sharing
 
+Pyramid_Pooling 3 exits:https://drive.google.com/file/d/1zFYL4ncQHmrxTYd0raQYkP6Ao3tqSqo5/view?usp=sharing
 
 Pyramid_Pooling 2 exits:https://drive.google.com/file/d/12LJsGxy7npqvrBW09tHcouajio50tlg5/view?usp=sharing
 
