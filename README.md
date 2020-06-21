@@ -38,6 +38,12 @@ Spatial Pyramid Pooling). In order to try one or other model, you just need to m
 ## Results
 In order to ease the testing of our project, we provide the following links, which directly redirects to a public collab with clear instructions on how to try the previously explained different models.
 
-Links to colab: 
+## Pretrained models
+We have also upload the two best score models weights.
+Pyramid_Pooling 3 exits:https://drive.google.com/file/d/1zFYL4ncQHmrxTYd0raQYkP6Ao3tqSqo5/view?usp=sharing
+Pyramid_Pooling 2 exits:https://drive.google.com/file/d/12LJsGxy7npqvrBW09tHcouajio50tlg5/view?usp=sharing
+
+
+Links to colab.This notebooks contain the whole pipeline, from training to test and reporting the results: 
 - 2 Exits model: https://drive.google.com/file/d/1uZyNDiSinVed_efMfYCW_egfmSr1gzUy/view?usp=sharing
 - 3 Exits model: https://drive.google.com/file/d/1MvA-TX4J4bjdH6E1dST_dz_Y1Jor7Wtd/view?usp=sharing
