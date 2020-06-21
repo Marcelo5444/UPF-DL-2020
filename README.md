@@ -31,7 +31,7 @@ In each model, you will also see there is the possibility to train data using di
 Spatial Pyramid Pooling). In order to try one or other model, you just need to modify the cell where the function is called.
 (You will encounter better results when using Spatial Pyramid Pooling).
 
-'' file is implemented in order to display obtained results, principally comparing our early exit implementations with the original ResNet18 model.
+'DataExploration.ipynb' and 'Plots.ipynb' files are implemented in order to display obtained results, principally comparing our early exit implementations with the original ResNet18 model.
 
 
 
